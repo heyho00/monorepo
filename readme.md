@@ -1,5 +1,8 @@
 # wanted challenge w.Monorepo
 
+<a href="https://github.com/heyho00/monorepo/blob/master/00.pre-assignment.md">pre-assignment<a><br>
+<a href="https://github.com/heyho00/monorepo/blob/master/01.yarn%20berry%20workspace.md">yarn berry workspace<a><br>
+
 ### 목표
 
 - 왜 Monorepo를 사용하는지? 장점과 단점이 무엇인지? 올바르게 아는 것.<br>
